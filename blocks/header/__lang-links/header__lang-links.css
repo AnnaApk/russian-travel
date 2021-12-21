@@ -1,0 +1,5 @@
+.header__lang-links {
+  display: flex;
+  width: calc(30px*2 + 18px);
+  justify-content: space-between;
+}
